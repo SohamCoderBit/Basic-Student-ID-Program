@@ -99,7 +99,7 @@ cout << "Enter The Number of Student You want to assign " << endl;
 
     else
     {
-        cout << "invalid error" << endl;
+        cout << "error" << endl;
     }
 
 
